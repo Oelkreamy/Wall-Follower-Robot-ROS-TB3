@@ -21,7 +21,7 @@ The project is organized to maximize modularity and reusability, with each compo
 
 ### Core Files
 
-- **`default.py`**: Provides detailed instructions for project setup, launching, and testing. Essential for understanding the flow and requirements of the project.
+- **`project_description.ipynb`**: Provides detailed instructions for project setup, launching, and testing. Essential for understanding the flow and requirements of the project.
   
 - **`FindWall.srv`**: Defines a custom ROS service for wall detection, making the robot orient itself toward and approach the nearest wall.
   
