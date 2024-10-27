@@ -1,0 +1,3 @@
+<launch>
+    <node pkg = 'project' type = 'action_server.py' name = 'action_node' output = 'screen' />
+</launch>

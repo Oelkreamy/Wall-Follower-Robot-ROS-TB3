@@ -1,0 +1,5 @@
+<launch>
+    <node pkg = 'project' type = 'service_server.py' name = 'service_node' output = 'screen' />
+    <node pkg = 'project' type = 'action_server.py' name = 'action_node' output = 'screen' />
+    <node pkg = 'project' type = 'my_project.py' name = 'project_node' output = 'screen' />
+</launch>
