@@ -55,7 +55,7 @@ The project is organized to maximize modularity and reusability, with each compo
 - **ROS Integration**: Demonstrates a complete ROS project with custom services and actions, showcasing a range of ROS capabilities from simple publishing to advanced action servers.
 - **Advanced Robotics Logic**: Implements intricate wall-following behavior, requiring an understanding of sensor data, feedback mechanisms, and environmental mapping.
 - **Code Modularity and Extensibility**: Designed with clean separation of components, facilitating future expansions, testing, and debugging.
-- 
+  
 ## 📸 Real-World Application with The Construct’s Remote Real Robots
 
 This project was successfully deployed on a real TurtleBot3 robot using **The Construct’s Remote Real Robots** service, which provides access to real robots in a remote lab environment. 
