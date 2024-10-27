@@ -1,4 +1,6 @@
-This project demonstrates a comprehensive application of ROS concepts, designed to control a TurtleBot3 robot in both simulated and real-world environments. The primary goal of this project is to showcase foundational ROS skills, including topic publishing/subscribing, service creation, and action server implementation. Each section builds upon the previous to create a versatile and fully functional robot capable of autonomous wall-following and odometry recording.
+# ROS TurtleBot3 Wall-Following Project
+
+**ROS TurtleBot3 Wall-Following Project** is a robotics application developed using ROS (Robot Operating System), This project demonstrates a comprehensive application of ROS concepts, designed to control a TurtleBot3 robot in both simulated and real-world environments. The primary goal of this project is to showcase foundational ROS skills, including topic publishing/subscribing, service creation, and action server implementation. Each section builds upon the previous to create a versatile and fully functional robot capable of autonomous wall-following and odometry recording.
 
 ## ✨ Project Highlights
 
