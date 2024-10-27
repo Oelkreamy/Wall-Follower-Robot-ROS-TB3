@@ -58,9 +58,9 @@ The project is organized to maximize modularity and reusability, with each compo
 
 Below are photos from the real-world deployment of the project, showcasing the TurtleBot3 performing wall-following in The Construct’s remote lab:
 
-| ![Moving to Start Position](https://drive.google.com/file/d/1mWr5p9l7TewPDp6zsZDXIkLwjRndhF1k/view?usp=sharing) | ![Wall Detection Initialization](https://drive.google.com/file/d/1rLFAZhISQOLOi42H2vMGUnamLjgy10ml/view?usp=sharing) | ![Odometry Feedback Display](https://drive.google.com/file/d/1jgk8ovoN-6d8Xs6q9mAYZfbc3O6ClS1c/view?usp=sharing) |
+| ![Moving to Start Position](https://drive.google.com/uc?id=1mWr5p9l7TewPDp6zsZDXIkLwjRndhF1k) | ![Wall Detection Initialization](https://drive.google.com/uc?id=1rLFAZhISQOLOi42H2vMGUnamLjgy10ml) | ![Odometry Feedback Display](https://drive.google.com/uc?id=1jgk8ovoN-6d8Xs6q9mAYZfbc3O6ClS1c) |
 |:--:|:--:|:--:|
-| *TurtleBot3 following walls in lab environment* | *Robot initializing wall detection* | *Live odometry tracking feedback* |
+| *Moving the robot to Start Position* | *Robot initializing wall detection* | *Live odometry tracking feedback* |
 
 ## 🚀 Installation & Setup
 
